@@ -1,0 +1,7 @@
+D:\LABS\EasyCalc\EasyCalc\EasyCalc\bin\Debug\EasyCalc.exe.config
+D:\LABS\EasyCalc\EasyCalc\EasyCalc\bin\Debug\EasyCalc.exe
+D:\LABS\EasyCalc\EasyCalc\EasyCalc\bin\Debug\EasyCalc.pdb
+D:\LABS\EasyCalc\EasyCalc\EasyCalc\obj\Debug\EasyCalc.csprojResolveAssemblyReference.cache
+D:\LABS\EasyCalc\EasyCalc\EasyCalc\obj\Debug\EasyCalc.csproj.CoreCompileInputs.cache
+D:\LABS\EasyCalc\EasyCalc\EasyCalc\obj\Debug\EasyCalc.exe
+D:\LABS\EasyCalc\EasyCalc\EasyCalc\obj\Debug\EasyCalc.pdb

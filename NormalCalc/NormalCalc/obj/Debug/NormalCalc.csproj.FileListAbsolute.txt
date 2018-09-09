@@ -1,0 +1,7 @@
+D:\LABS\NormalCalc\NormalCalc\bin\Debug\NormalCalc.exe.config
+D:\LABS\NormalCalc\NormalCalc\bin\Debug\NormalCalc.exe
+D:\LABS\NormalCalc\NormalCalc\bin\Debug\NormalCalc.pdb
+D:\LABS\NormalCalc\NormalCalc\obj\Debug\NormalCalc.csprojResolveAssemblyReference.cache
+D:\LABS\NormalCalc\NormalCalc\obj\Debug\NormalCalc.csproj.CoreCompileInputs.cache
+D:\LABS\NormalCalc\NormalCalc\obj\Debug\NormalCalc.exe
+D:\LABS\NormalCalc\NormalCalc\obj\Debug\NormalCalc.pdb
